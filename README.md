@@ -4,6 +4,7 @@
 
 ## Overview
 It's a basic but working To-Do List app developed with **React Native** and **Expo**. The application provides the following features:
+-Main file is in index.tsx.
 - Adding tasks with text input field
 - Assigning a priority level (High, Medium, Low) to every task
 - Marking tasks as done
